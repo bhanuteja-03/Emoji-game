@@ -1,0 +1,15 @@
+/* Write your code here. */
+.li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff33;
+  padding: 40px;
+  margin: 6px;
+  border-radius: 10px;
+  width: 200px;
+}
+.emoji-btn {
+  background-color: transparent;
+  border-width: 0px;
+}

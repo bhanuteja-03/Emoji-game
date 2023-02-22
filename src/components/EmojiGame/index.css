@@ -1,0 +1,14 @@
+/* Write your code here. */
+.bg {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+.emoji-game-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+}
